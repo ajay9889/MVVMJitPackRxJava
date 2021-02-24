@@ -1,5 +1,8 @@
-# MVVMJitPackRxJava
+# Completed with Advance Android app development with MVVM framework
  + MVVM
+ + Retrofit
+ + Room Persistance
+ + CacheData Source
  + Dagger 2 dependencies  injection
  + Pagging data source adapter
 
