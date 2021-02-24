@@ -11,8 +11,6 @@ viewmodelFactor
 Data Layer:
 Api/serviceInterface
 Db/database and interface
-
-
 Data/ model classes
 
 Datasource
